@@ -2,6 +2,12 @@
 
 A comprehensive end-to-end machine learning project for real estate market analysis and price prediction in Gurgaon, featuring advanced data science techniques, interactive visualizations, and a production-ready web application.
 
+## 🎥 Demo Video
+
+![Demo Video](https://github.com/user-attachments/assets/be54bfff-2f62-4efc-8264-bbfbe2354651)
+
+<!-- You can watch the full demo [here](https://github.com/user-attachments/assets/be54bfff-2f62-4efc-8264-bbfbe2354651) -->
+
 ## 🚀 Project Overview
 
 This project demonstrates a complete data science pipeline from raw data collection to deployment, showcasing expertise in:
