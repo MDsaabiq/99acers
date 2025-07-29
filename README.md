@@ -4,7 +4,7 @@ A comprehensive end-to-end machine learning project for real estate market analy
 
 ## 🎥 Demo Video
 
-![Demo Video](https://github.com/user-attachments/assets/be54bfff-2f62-4efc-8264-bbfbe2354651)
+[![Demo Video](tumbnail.png)](https://github.com/user-attachments/assets/be54bfff-2f62-4efc-8264-bbfbe2354651)
 
 <!-- You can watch the full demo [here](https://github.com/user-attachments/assets/be54bfff-2f62-4efc-8264-bbfbe2354651) -->
 
