@@ -234,4 +234,4 @@ This project showcases practical application of data science in real estate, dem
 
 ---
 
-*Built with ❤️ using Python, Streamlit, and advanced ML techniques*
+*Built with ❤️ by saabiq using Python, Streamlit, and advanced ML techniques*
